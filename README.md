@@ -19,3 +19,7 @@ Check out my other courses on [LinkedIn Learning][URL-instructor-home].
 [lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQG0Mu6DAHu0uw/learning-public-crop_675_1200/0/1706311523814?e=2147483647&v=beta&t=hWeQB-7b89fbbJ0akwTwu3k6DavuE5PL3ujxlKOPfrY
 [URL-instructor-home]: https://www.linkedin.com/learning/instructors/ronnie-sheer
 
+# TO DO
+
+- add input validation
+- incorporate prompt best practices
